@@ -20,7 +20,7 @@ export default function Home() {
         <SoftSkills/>
 
       <div id='cv' className='curriculum'>
-        <a href='/assets/AntonioCaballeroCV.pdf' className='button_cv'>
+        <a href='/assets/Antoniocv.pdf' className='button_cv'>
           <h3 className='texto_button_cv'>&#x3C;Descarga mi cv/&#x3E;</h3>
         </a>
       </div> 
