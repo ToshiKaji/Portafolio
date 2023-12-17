@@ -2,13 +2,15 @@
 import styles from '../Estilos/estilos.css'
 
 export function Header() {
+
+    
   return (
     <div className='header'>
         
         <div className='items_header'>
             
            
-            <a href='http://localhost:3000/#yo'>
+            <a href='/#yo'>
                 <h2>	&#x3C;
                     Sobre mi
                     	&#x3E;
@@ -17,7 +19,7 @@ export function Header() {
            
 
                    
-            <a href='http://localhost:3000/#proyectos'>
+            <a href='/#proyectos'>
                 <h2>
                     &#x3C;
                     Proyectos
@@ -26,7 +28,7 @@ export function Header() {
             </a>
             
 
-            <a href='http://localhost:3000/#softskills'>
+            <a href='/#softskills'>
                 <h2>
                 &#x3C;
                 Soft skills
@@ -34,7 +36,7 @@ export function Header() {
                 </h2>
             </a>
 
-            <a href='http://localhost:3000/#cv'>
+            <a href='/#cv'>
                 <h2>
                 &#x3C;
                 Curriculum
